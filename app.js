@@ -1,2 +1,2 @@
-console.log("Thaksin);
+console.log("Thaksin");
 console.log("Minee");
