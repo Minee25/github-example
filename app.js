@@ -1,1 +1,2 @@
-console.log("Thaksin Mualsuk");
+console.log("Thaksin);
+console.log("Minee");
